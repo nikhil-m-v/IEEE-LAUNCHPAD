@@ -1,52 +1,57 @@
-## Step 4:
+# Nikhil MV 
 
-<div align="left">
+### About Me
 
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-Embark on this step with passion and precision.
-
-Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-</div>
-
-#
+ >Motivated and detail-oriented software engineer with a solid foundation in programming languages and a commitment
+ to continuous learning. Seeking an opportunity to apply theoretical knowledge and contribute to innovative software
+ solutions
+ 
+ >Check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md)
 
 
+## Portfolio Highlights
 
-#
+### My Projects
 
-:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+| Name                   | Description                                                                                             | Repo Link                                                                                                    |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Resume-Analyzer**    | Software to check and give score to resume                                                           | [Repo Link 1](https://github.com/nikhil-m-v/Resume-Analyzer)                                                 |
+| **NBA SAR Generator**  | Software to create SAR for NBA                                                                      | [Repo Link 2](https://github.com/nikhil-m-v/Self-Assessment-Report-Generator-for-NBA-Accreditation)          |
 
-> If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
+#### Leadership and Influence:
 
----
+- What makes me a good leader is that i have the passion and innovation to do something new and i am an active listener.
 
-<div aling='center'>
+#### Networking:
 
-</div>
+- I am emotionally intelligent and listen to people.
 
+#### Career Plan:
 
+- I want to pursue my career in software development.
 
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- It has the best future comparative to Bangalore and Hyderabad which has reached a saturation point.
+
+#### History of Open Source Contributions:
+
+- I have not contributed to open source softwares.
+
+#### History of Community Engagement:
+
+-  I have participated in helping the community in stackoverflow with solving some problems in c programming.
+
+#### Highly Visible Technical Content:
+
+- I have not created any blog posts, articles, or video series.
+
+#### Highly Used Software Tools:
+
+- I mostly use c,c++,python for software programming and is into web development.
+
+#### Competitive Website Profiles:
+
+- HackerRank: https://www.hackerrank.com/profile/nikhilvenu2002
 
 
