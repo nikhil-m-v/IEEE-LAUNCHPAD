@@ -4,7 +4,7 @@
 
  >Motivated and detail-oriented software engineer with a solid foundation in programming languages and a commitment
  to continuous learning. Seeking an opportunity to apply theoretical knowledge and contribute to innovative software
- solutions.
+ solutions
  
  >Check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md)
 
